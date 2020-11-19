@@ -1,5 +1,5 @@
 # Estrutura Sequencial - Exercício de Fixação 01
-Fazer um programa para executar a seguinte interação com o usuário, lendo os valores destacados, e depois mostrar os dados na tela:
+#### Fazer um programa para executar a seguinte interação com o usuário, lendo os valores destacados, e depois mostrar os dados na tela:
 
 - Entre com seu nome completo:
 - **Han Solo**
@@ -10,7 +10,7 @@ Fazer um programa para executar a seguinte interação com o usuário, lendo os 
 - Entre seu último nome, idade e altura (na mesma linha):
 - **Solo 27 1.73**
 
-### SAÍDA ESPERADA (NÚMEROS REAIS COM DUAS CASAS DECIMAIS)
+#### SAÍDA ESPERADA (NÚMEROS REAIS COM DUAS CASAS DECIMAIS)
 
 - Han Solo
 - 2
