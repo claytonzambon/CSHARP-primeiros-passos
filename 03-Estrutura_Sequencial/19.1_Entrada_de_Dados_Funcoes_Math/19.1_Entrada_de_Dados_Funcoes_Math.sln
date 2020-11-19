@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.1_Entrada_de_Dados_Funcoes_Math", "19.1_Entrada_de_Dados_Funcoes_Math\19.1_Entrada_de_Dados_Funcoes_Math.csproj", "{E40668C4-8F1A-484C-B0C4-B371C69AB507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E40668C4-8F1A-484C-B0C4-B371C69AB507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40668C4-8F1A-484C-B0C4-B371C69AB507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40668C4-8F1A-484C-B0C4-B371C69AB507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40668C4-8F1A-484C-B0C4-B371C69AB507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77DB99FC-C56B-4D44-BC82-53BB3D9561A4}
+	EndGlobalSection
+EndGlobal
