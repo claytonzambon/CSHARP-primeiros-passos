@@ -1,9 +1,12 @@
-# Estrutura Sequencial - Exercício 03
-##### Fazer um programa para ler o nome (apenas uma palavra) e idade de duas pessoas. Ao final mostrar uma mensagem com os nomes e a idade média entre essas pessoas, com uma casa decimal, conforme exemplo: 
+# 35.Exercício Resolvido 03
+##### Fazer um programa para ler as duas notas que um aluno obteve no primeiro e segundo semestres de uma disciplina anual. Em seguida, mostrar a nota final que o aluno obteve no ano juntamente com um texto explicativo. Caso a nota final do aluno seja inferior a 60.00, mostrar a mensagem "REPROVADO", conforme exemplos. Todos os valores devem ter uma casa decimal:
 
-Exemplo:
+Exemplos:
 
-| Entrada:      | Saída:                                            |
-|---------------|---------------------------------------------------|
-|  Maria 19     | A idade média de Maria e Joaquim é de 19.5 anos   |
-|  Joaquim 20   |                                                   |
+| Entrada:  | Saída:            |
+|-----------|-------------------|
+|  45.5     | NOTA FINAL = 76.8 |
+|  31.3     |                   |
+|           |                   |
+| 34.0      | NOTA FINAL = 57.5 |
+| 23.5      | REPROVADO         |
