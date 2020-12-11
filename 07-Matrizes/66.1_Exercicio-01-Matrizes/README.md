@@ -5,7 +5,7 @@ Exemplos:
 
 | Entrada:  | Saída:                        |
 |-----------|-------------------------------|
-| 3         | DIAGONA PRINCIPAL:            |
+| 3         | DIAGONAL PRINCIPAL:           |
 | 5 -3 10   | 5 8 -4                        |
 | 15 8 2    | QUANTIDADE DE NEGATIVOS = 2   |
 | 7 9 -4    |
